@@ -4,7 +4,8 @@
   "description": "first mongo tutorial",
   "main": "index.js",
   "scripts": {
-    "test": " \"scripts\": {"
+    "test": " \"scripts\": {",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/bexinthesky/nodejsexpressmongo_tut#readme",
   "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
     "npm": "^5.8.0"
   }
 }
