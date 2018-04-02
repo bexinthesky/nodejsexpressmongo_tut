@@ -1,0 +1,22 @@
+{
+  "name": "nodejsexpressmongo_tut",
+  "version": "1.0.0",
+  "description": "first mongo tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": " \"scripts\": {"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bexinthesky/nodejsexpressmongo_tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bexinthesky/nodejsexpressmongo_tut/issues"
+  },
+  "homepage": "https://github.com/bexinthesky/nodejsexpressmongo_tut#readme",
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}
