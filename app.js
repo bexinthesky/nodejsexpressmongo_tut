@@ -6,7 +6,7 @@ var port = 3000;
 
 // Mongoose connection with mongodb
 mongoose.Promise = require('bluebird');
-mongoose.connect('mongodb://<dbuser>:<dbpassword>@ds014118.mlab.com:14118/firstmongotut')
+mongoose.connect('mongodb://test:testing123@ds014118.mlab.com:14118/firstmongotut')
     .then(() => { // if all is ok we will be here
         console.log('Start');
     })
